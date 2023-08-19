@@ -1,2 +1,4 @@
 # spotify-auth-server
-simple Spotify auth server created following the YT tutorial
+
+Simple Spotify auth server created by following *[Web Dev Simplified](https://youtu.be/Xcet6msf3eE)* YouTube tutorial.
+
